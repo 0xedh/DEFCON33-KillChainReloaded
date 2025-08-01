@@ -1,0 +1,4 @@
+You will need the following (we are unable to upload them due to legal reasons):
+
+13a2a2c57025c06a45c1aae8a0a13f5ab31ec986d419c9f5786468ee851744df HWAudioX64
+10fa1ea4633ca458b12021d309f44db494c099f9392c64dd1b3dbb8331e9bc73 HwAiGalleryGuardDriverControl

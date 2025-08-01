@@ -1,0 +1,11 @@
+#include "resource.h"
+
+
+
+IDR_SHDLDR_EFI       RCDATA   "files/shdloader_rxpro128.efi"
+IDR_SHELL_EF_	     RCDATA   "files/shell.ef_"
+IDR_KNO_HASHTOOL_EFI	     RCDATA   "files/knoppix/HashTool.efi"
+IDR_KNO_LOADER_EFI	     RCDATA   "files/knoppix/loader.efi"
+IDR_KNO_STAGE0_EFI	     RCDATA   "files/knoppix/stage0.efi"
+IDR_ASCIIART_EFI	     RCDATA   "files/asciiart_2.efi"
+

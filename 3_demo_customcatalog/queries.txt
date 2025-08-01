@@ -1,0 +1,2 @@
+vendor1
+vendor2

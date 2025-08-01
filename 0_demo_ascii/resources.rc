@@ -1,0 +1,9 @@
+#include "resource.h"
+
+IDR_SHDLDR_EFI       RCDATA   "files/shdloader_rxpro128.efi"
+IDR_SHDMGR_EF_       RCDATA   "files/shdmgr_128.ef_"
+IDR_SHIELD_EFI_BAK	RCDATA	"files/Shield.efi.bak"
+IDR_SHIELD_EFI       RCDATA   "files/Shield_mod.efi"
+IDR_ASCIIART_EFI	     RCDATA   "files/asciiart_loader.efi"
+
+

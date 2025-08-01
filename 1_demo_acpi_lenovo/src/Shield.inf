@@ -1,0 +1,29 @@
+[Defines]
+  INF_VERSION  = 0x00010018
+  BASE_NAME    = Shield
+  FILE_GUID    = B7D8F2F7-1234-1234-1234-123456789ABC
+  MODULE_TYPE  = UEFI_APPLICATION
+  ENTRY_POINT  = UefiMain
+
+[Packages]
+  MdePkg/MdePkg.dec
+  ShellPkg/ShellPkg.dec
+
+[Sources]
+  Shield.c
+
+[LibraryClasses]
+  UefiApplicationEntryPoint
+  UefiLib
+  UefiBootServicesTableLib
+  DevicePathLib
+  MemoryAllocationLib
+  BaseMemoryLib
+  PrintLib
+  PeCoffLib
+  FileHandleLib|ShellPkg/Library/UefiFileHandleLib/UefiFileHandleLib.inf
+  CacheMaintenanceLib   
+
+[Protocols]
+  gEfiLoadedImageProtocolGuid
+

@@ -1,7 +1,7 @@
 # DEFCON33 - Kill Chain Reloaded
 
 Welcome to the repository for the DEF CON 33 talk: **Kill Chain Reloaded**.  
-This repo contains 4 progressive demos that showcase how Secure Boot, BitLocker, WPBT, and vulnerable drivers can be abused in modern bootkits and persistence mechanisms.
+This repo contains progressive demos that showcase how Secure Boot, BitLocker, WPBT, and vulnerable drivers can be abused in modern bootkits and persistence mechanisms.
 
 ---
 

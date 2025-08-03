@@ -1,7 +1,7 @@
 # DEFCON33 - Kill Chain Reloaded
 
 <p align="center">
-  <img src="gifs/ascii.gif" alt="ASCII boot animation" width="800">
+  <img src="gifs/ascii.gif" alt="ASCII boot animation" width="400">
 </p>
 
 Welcome to the repository for the DEF CON 33 talk: **Kill Chain Reloaded**.  

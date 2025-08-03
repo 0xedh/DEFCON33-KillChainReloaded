@@ -34,8 +34,8 @@ This repo contains progressive demos that showcase how Secure Boot, BitLocker, W
   - The **Windows Platform Binary Table (WPBT)**.
   - Adds a custom **LUFT ACPI table**.
 - At boot, Session Manager executes a Lenovo-native signed binary that:
-  - Loads a signed but vulnerable driver (`hell.sys`).
-  - Drops and configures a persistent service (`wpbbin.exe`).
+  - Drops and loads a signed but vulnerable driver (`hell.sys`).
+  - Configures a persistent service (`2srvdriver`).
 - Results in persistent kernel-mode access from preboot.
 
 📁 Directory: `1_demo_acpi_lenovo/`

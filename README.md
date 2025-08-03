@@ -3,7 +3,7 @@ Welcome to the repository for the DEF CON 33 talk: **Kill Chain Reloaded**.
 This repo contains progressive demos that showcase how Secure Boot, BitLocker, WPBT, and vulnerable drivers can be abused in modern bootkits and persistence mechanisms.
 
 <p align="center">
-  <img src="gifs/ascii.gif" alt="ASCII boot animation" width="600">
+  <img src="gifs/ascii.gif" alt="ASCII boot animation" width="450">
 </p>
 
 ---

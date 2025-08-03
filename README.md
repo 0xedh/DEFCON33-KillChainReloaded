@@ -5,6 +5,7 @@ This repo contains progressive demos that showcase how Secure Boot, BitLocker, W
 <p align="center">
   <img src="gifs/ascii.gif" alt="ASCII boot animation" width="600">
 </p>
+
 ---
 
 ## Directory Structure
